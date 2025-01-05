@@ -1,0 +1,25 @@
+.vbox {
+    -fx-padding: 15px; /* Remplace '1.5rem' par '15px' */
+}
+
+/* Style pour le tableau */
+.table-view {
+    -fx-pref-width: 100%;
+    -fx-pref-height: 200px;
+    margin-bottom: 10px; /* Remplace '1rem' par '10px' */
+}
+
+/* Style pour le graphique circulaire */
+.pie-chart {
+    -fx-pref-width: 100%;
+    -fx-pref-height: 300px;
+    margin-bottom: 15px; /* Remplace '1.5rem' par '15px' */
+}
+
+/* Style pour les tranches du graphique circulaire */
+.chart-pie {
+    -fx-pie-color: #0077cc;
+    -fx-pie-color-2: #cc0000;
+}
+
+
